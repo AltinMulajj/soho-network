@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+~$*
+
+# Packet Tracer auto-saves
+*.pktx.bak
+*.pkt.bak
