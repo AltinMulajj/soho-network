@@ -160,7 +160,3 @@ ip route 192.168.30.0 255.255.255.0 192.168.40.1
 | R1 → VLAN 50 (192.168.50.1) | ✅ 100% |
 
 ---
-
-```
-
-**Lajmëro grupin në WhatsApp para dhe pas punës!**
